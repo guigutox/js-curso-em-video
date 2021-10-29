@@ -1,0 +1,22 @@
+Identificadores de váriaveis JS:
+
+-Podem começar com letra, $ ou _ ;
+
+-Não podem começar com números;
+
+-É possível usar letras ou números;
+
+-É possível usar acentos e símbolos;
+
+-Não podem conter espaços;
+
+-Não podem ser palavras reservadas (function, var, etc);
+
+-Maiúsculas e minúsculas fazem diferença;
+
+5, 18, -12, 0.5 = tipo number;
+
+"Google" // 'Java' // `batata` = string;
+
+true / false = boolean;
+
